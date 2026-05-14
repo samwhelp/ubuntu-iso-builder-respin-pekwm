@@ -52,7 +52,7 @@ atril
 
 gnome-disk-utility
 gnome-keyring
-gnome-nettool
+#gnome-nettool
 gnome-system-tools
 
 remmina
